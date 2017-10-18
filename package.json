@@ -1,0 +1,31 @@
+{
+  "name": "dnsblmon",
+  "version": "1.0.0",
+  "description": "An Open Source DNS Black List Monitor",
+  "main": "server.js",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "debug": "^3.1.0",
+    "dnsbl": "^1.1.8",
+    "usey-http": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wankdanker/dnsblmon.git"
+  },
+  "keywords": [
+    "dnsbl",
+    "monitor"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/dnsblmon/issues"
+  },
+  "homepage": "https://github.com/wankdanker/dnsblmon#readme"
+}

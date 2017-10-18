@@ -1,0 +1,122 @@
+dnsbl,description
+0spam.fusionzero.com,0spam DNSBL
+access.redhawk.org,Redhawk
+all.rbl.jp,RBL.JP all
+all.s5h.net,all.s5h.net
+all.spamrats.com,SpamRATS! all
+b.barracudacentral.org,Barracuda Reputation Block List
+backscatter.spameatingmonkey.net,Spam Eating Monkey SEM-BACKSCATTER
+bad.psky.me,Protected Sky RBL
+bl-ip.rbl.scrolloutf1.com,Scrollout F1 IP RBL
+bl.blocklist.de,www.blocklist.de
+bl.drmx.org,DrMX
+bl.emailbasura.org,
+bl.fmb.la,bl.fmb.la
+bl.konstant.no,KONSTANT DNSBL
+bl.mailspike.net,Mailspike Blacklist
+bl.nszones.com,nsZones.com SBL+Dyn
+bl.scientificspam.net,Scientific Spam IPs
+bl.score.senderscore.com,Return Path Reputation Network Blacklist
+bl.spamcannibal.org,
+bl.spamcop.net,Spamcop
+bl.spameatingmonkey.net,Spam Eating Monkey SEM-BLACK
+bl.spamstinks.com,SpamStinks BL
+bl.suomispam.net,Suomispam Reputation Database
+blacklist.woody.ch,Woody's SMTP Blacklist
+bogons.cymru.com,Bogon
+cbl.abuseat.org,Composite Blocking List
+cblplus.anti-spam.org.cn,China Anti-Spam Alliance
+cdl.anti-spam.org.cn,
+cidr.bl.mcafee.com,McAfee Blacklist
+CiscoTalos,Talos Security Intelligence Blacklist
+combined.abuse.ch,
+db.wpbl.info,Weighted Private Block List
+dnsbl-1.uceprotect.net,UCEPROTECT Level 1
+dnsbl-2.uceprotect.net,
+dnsbl-3.uceprotect.net,
+dnsbl.anticaptcha.net,dnsbl.anticaptcha.net
+dnsbl.calivent.com.pe,dnsbl.calivent.com.pe
+dnsbl.cobion.com,IBM DNS Blacklist
+dnsbl.cyberlogic.net,
+dnsbl.dronebl.org,DroneBL
+dnsbl.inps.de,inps.de-DNSBL
+dnsbl.justspam.org,JustSpam.org
+dnsbl.kempt.net,The Kempt.net DNS Black List
+dnsbl.madavi.de,Madavi:BL
+dnsbl.net.ua,dnsbl.net.ua
+dnsbl.rv-soft.info,RV-SOFT Technology DNSBL/RBL
+dnsbl.rymsho.ru,dnsbl.rymsho.ru
+dnsbl.sorbs.net,SORBS Aggregate zone
+dnsbl.spfbl.net,SPFBL DNSBL
+dnsbl.tornevall.org,Tornevall Networks DNS Blacklist
+dnsbl.zapbl.net,ZapBL DNSRBL
+dnsrbl.org,DNSRBL - The Real-time Blackhole List
+dnsrbl.swinog.ch,Swinog Blacklist
+drone.abuse.ch,
+duinv.aupads.org,
+dul.dnsbl.sorbs.net,
+dul.pacifier.net,dul.pacifier.net
+dyna.spamrats.com,
+dynip.rothen.com,
+exitnodes.tor.dnsbl.sectoor.de,exitnodes.tor.dnsbl.sectoor.de
+fnrbl.fast.net,fnrbl.fast.net
+hostkarma.junkemailfilter.com,Hostkarma
+http.dnsbl.sorbs.net,
+InvaluementSIP,Invaluement RBL SIP
+InvaluementSIP24,Invaluement RBL SIP24
+ips.backscatterer.org,
+ix.dnsbl.manitu.net,NiX Spam DNSBL
+korea.services.net,The South Korean Network Blocking List
+list.blogspambl.com,Blog Spam Blacklist
+mail-abuse.blacklist.jippg.org,JIPPG's Relay Blackhole List Project
+misc.dnsbl.sorbs.net,
+netbl.spameatingmonkey.net,Spam Eating Monkey SEM-NETBLACK
+noptr.spamrats.com,
+nosolicitado.org,NoSolicitado.org
+orvedb.aupads.org,
+pbl.spamhaus.org,
+pofon.foobar.hu,pofon.foobar.hu
+ProjectHoneyPot,Project Honey Pot
+proxy.bl.gweep.ca,
+psbl.surriel.com,Passive Spam Block List
+rbl.abuse.ro,abuse.ro RBL
+rbl.blockedservers.com,BlockedServers
+rbl.dns-servicios.com,rbl.dns-servicios.com
+rbl.efnetrbl.org,EFnet TOR
+rbl.interserver.net,InterServer BL
+rbl.megarbl.net,MegaRBL.net
+rbl.realtimeblacklist.com,realtimeBLACKLIST.COM
+rbl.talkactive.net,rbl.talkactive.net
+rbl2.triumf.ca,TRIUMF.ca DNSBL
+relays.bl.gweep.ca,
+relays.nether.net,
+sbl.spamhaus.org,
+short.rbl.jp,
+singular.ttk.pte.hu,
+smtp.dnsbl.sorbs.net,
+socks.dnsbl.sorbs.net,
+spam.abuse.ch,
+spam.dnsbl.anonmails.de,DNSBL spam.dnsbl.anonmails.de
+spam.dnsbl.sorbs.net,SORBS SPAM (any time)
+spam.pedantic.org,Pedantic.org spam
+spam.spamrats.com,
+spambot.bls.digibase.ca,
+spamguard.leadmon.net,Leadmon.Net's SpamGuard Listings (LNSG)
+spamlist.or.kr,KISA-RBL
+spamrbl.imp.ch,ImproWare IP based spamlist
+spamsources.fabel.dk,spamsources.fabel.dk
+srn.surgate.net,SurGATE Reputation Network (SRN)
+st.technovision.dk,TechnoVision SpamTrap
+stabl.rbl.webiron.net,Webiron Short Time Abuse Blacklist
+tor.dnsbl.sectoor.de,sectoor TOR blacklist
+torexit.dan.me.uk,dan.me.uk (only tor exit nodes)
+truncate.gbudb.net,truncate.gbudb.net
+ubl.lashback.com,
+ubl.unsubscore.com,The LashBack UBL
+virus.rbl.jp,
+web.dnsbl.sorbs.net,
+wormrbl.imp.ch,ImproWare IP based wormlist
+xbl.spamhaus.org,
+z.mailspike.net,
+zen.spamhaus.org,Spamhaus SBL + SBLCSS + XBL + PBL
+zombie.dnsbl.sorbs.net,
