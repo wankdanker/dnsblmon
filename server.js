@@ -39,6 +39,10 @@ function checker (req, res, next) {
 
     var result = {
       result : data[0]
+      , counts : {
+        listed : data[0].blacklists.reduce(function (y, a) { return y + (a.listed ? 1 : 0)}, 0)
+        , unlisted : data[0].blacklists.reduce(function (y, a) { return y + (!a.listed ? 1 : 0)}, 0)
+      }
     };
 
     res.setHeader('content-type', 'application/json');
